@@ -1,3 +1,11 @@
+# Virtual Environment
 .venv/
 venv/
+ENV/
+
+# Python cache
 __pycache__/
+*.py[cod]
+
+# Uploads or temporary media (optional, if you don't want to track user uploads)
+uploads/
